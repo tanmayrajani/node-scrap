@@ -1,5 +1,5 @@
 // Logs IPL match score from cricbuzz into a text file as well as on console.
-//var x = 14600;
+
 var request = require("request"),
 	cheerio = require("cheerio"),
 	fs = require('fs'),
@@ -75,7 +75,7 @@ for (var i = 0; i < timetable.length; i++) {
 		x = timetable[i-1][3];
 	}
 };
-//console.log(x);
+
 var url = "http://www.cricbuzz.com/live-cricket-scorecard/" + x;
 	
 setInterval(function () {
@@ -83,7 +83,6 @@ setInterval(function () {
 		if (!error) {
 			var $ = cheerio.load(body),
 			score = $("table.col-md-12 thead h4").text();
-			//score = $(".batteamdesc").text();
 			var index = score.indexOf("Match Info");
 			if(index != -1) score = score.substr(0, index); // removing Match Info form score text
 			var index2 = score.indexOf("20 overs)");
