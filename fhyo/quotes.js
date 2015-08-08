@@ -9,17 +9,16 @@ function fuckingHomepageDataBitches () {
 			var $ = cheerio.load(body);
 			var page = response.request.uri.path.split('/');
 			page = page[page.length-1];
-			var imgurl = $(".PostBody p:nth-child(17) a").attr("href");
-			console.log(imgurl);
-			console.log(page);
+			var quote = $(".PostBody p:nth-child(3)").text();
+			console.log(page+" >> "+quote);
 			MongoClient.connect('mongodb://localhost:27017/fh', function(err, db) {
 	    		if(err) throw err;
-	    		db.collection('iah').find({"date": page}).each(function (err,doc) {
+	    		db.collection('quu').find({"date": page}).each(function (err,doc) {
 	    			if (doc != null && page!="random" && page!="undefined") {
-						console.dir("Hit!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+						//console.dir("Hit!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 					} else {
-						db.collection('iah').insert({"date":page,"url":imgurl}, function (err, result) {
-							console.log("Inserting!");
+						db.collection('quu').insert({"date":page,"quote":quote}, function (err, result) {
+							//console.log("Inserting..");
 						})
 					}
 	    		})
