@@ -18,7 +18,7 @@ function fuckingHomepageDataBitches () {
 						//console.dir("Hit!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 					} else {
 						db.collection('quu').insert({"date":page,"quote":quote}, function (err, result) {
-							//console.log("Inserting..");
+							//console.log("Inserting..");	
 						})
 					}
 	    		})
