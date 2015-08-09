@@ -138,7 +138,6 @@
 {"_id":{"$oid":"55c63f65e977c0942efd7bf0"},"date":"december-8-2013","quote":"EVEN ADULTS HAVE NO CLUE WHAT THEY ARE DOING MOST OF THE TIME."}
 {"_id":{"$oid":"55c63f66e977c0942efd7bf1"},"date":"july-9-2014","quote":"DON’T TRY TO FIX PEOPLE; IT DOESN’T WORK."}
 {"_id":{"$oid":"55c63f6ae977c0942efd7bf4"},"date":"august-22-2014","quote":"IF YOU CAN’T ENJOY YOUR OWN COMPANY, NOBODY ELSE WILL EITHER."}
-{"_id":{"$oid":"55c63f8de977c0942efd7bf7"},"date":"january-4-2013","quote":"EVERYONE APPRECIATES WHEN YOU GET TO THE POINT QUICKLY."}
 {"_id":{"$oid":"55c63f91e977c0942efd7bf8"},"date":"april-19-2012","quote":"GET A SAFE DEPOSIT BOX FOR YOUR IMPORTANT DOCUMENTS AND SHIT."}
 {"_id":{"$oid":"55c63f93e977c0942efd7bf9"},"date":"january-20-2015","quote":"IF YOU DON’T WORK FOR YOUR DREAMS, SOMEONE WILL PAY YOU TO WORK FOR THEIRS."}
 {"_id":{"$oid":"55c63f97e977c0942efd7bfa"},"date":"april-18-2012","quote":"EAT VEGETABLES EVERY FUCKING DAY."}
@@ -496,7 +495,7 @@
 {"_id":{"$oid":"55c6496260fc2d2416571e53"},"date":"december-11-2011","quote":"DRINK MORE FUCKING WATER AND LESS SHITTY CARBONATED DRINKS."}
 {"_id":{"$oid":"55c6496660fc2d2416571e5c"},"date":"january-21-2012","quote":"ALWAYS HAVE A GODDAMN PEN HANDY."}
 {"_id":{"$oid":"55c6496960fc2d2416571e6c"},"date":"january-18-2012","quote":"TAKE PICTURES OF PEOPLE, NOT FUCKING PLACES."}
-{"_id":{"$oid":"55c6496f60fc2d2416571e81"},"date":"march-30-2012","quote":"BADASS MOVIE STAR BOUGHT 12,000 BOXES OF GIRL SCOUT COOKIES FOR SOLDIERS OVERSEAS."}
+{"_id":{"$oid":"55c6496f60fc2d2416571e81"},"date":"march-30-2012","quote":"BADASS MOVIE STAR BOUGHT 12,000 BOXES OF GIRL SCOUT COOKIES FOR SOLDIERS OVERSEAS. more\u003e\u003e"}
 {"_id":{"$oid":"55c6497160fc2d2416571e88"},"date":"march-10-2012","quote":"WHISTLE DAMMIT."}
 {"_id":{"$oid":"55c6497260fc2d2416571e8c"},"date":"may-8-2012","quote":"BEFORE POOPING, DROP TOILET PAPER IN THE BOWL TO AVOID SPLASH BACK."}
 {"_id":{"$oid":"55c6497460fc2d2416571e91"},"date":"june-3-2012","quote":"THANK THE GODDAMN BUS DRIVER."}
@@ -552,7 +551,6 @@
 {"_id":{"$oid":"55c649bed2c173f40b7c5323"},"date":"january-5-2013","quote":"SOMEONE WHO IS NICE TO YOU BUT MEAN TO SERVICE STAFF IS NOT A NICE PERSON."}
 {"_id":{"$oid":"55c649c0d2c173f40b7c5327"},"date":"august-18-2012","quote":"USING THE PHRASE “YOLO” MAKES YOU LOOK LIKE A FUCKING IDIOT."}
 {"_id":{"$oid":"55c649c0d2c173f40b7c5328"},"date":"october-22-2012","quote":"HAPPINESS IS THE KEY TO SUCCESS."}
-{"_id":{"$oid":"55c649c1d2c173f40b7c5329"},"date":"january-3-2013","quote":"DRINK WATER. KIDNEY STONES ARE A BITCH."}
 {"_id":{"$oid":"55c649c1d2c173f40b7c532a"},"date":"october-30-2012","quote":"RETRY FOODS THAT YOU DIDN’T LIKE AT FIRST. THAT SHIT MIGHT GROW ON YOU."}
 {"_id":{"$oid":"55c649c2d2c173f40b7c532c"},"date":"july-17-2012","quote":"BUY A PLUNGER BEFORE YOU NEED A GODDAMN PLUNGER."}
 {"_id":{"$oid":"55c649c2d2c173f40b7c532d"},"date":"january-23-2013","quote":"IF YOU SEE A WEBSITE ADVERTISED ON TV, YOU SHOULD PROBABLY AVOID IT."}
@@ -750,7 +748,6 @@
 {"_id":{"$oid":"55c64c6ac630c340038417f5"},"date":"october-3-2013","quote":"IF SOMETHING IS BOTHERING YOU, FIX IT."}
 {"_id":{"$oid":"55c64c6ac630c340038417f6"},"date":"november-8-2013","quote":"REGRET IS WORSE THAN REJECTION."}
 {"_id":{"$oid":"55c64c6ac630c340038417f7"},"date":"june-20-2013","quote":"ANXIETY CAN FREEZE YOU WITH FEAR OR GET YOU MOTIVATED. CHOOSE TO BE MOTIVATED."}
-{"_id":{"$oid":"55c64c6ac630c340038417f8"},"date":"october-31-2013","quote":"IT’S BETTER TO FART OVER A TOILET THAN SHIT IN YOUR PANTS."}
 {"_id":{"$oid":"55c64c6ac630c340038417fb"},"date":"june-24-2013","quote":"IF YOU WANT GOOD SERVICE, DON’T BE AN ASSHOLE."}
 {"_id":{"$oid":"55c64c6bc630c340038417fe"},"date":"july-4-2013","quote":"DON’T ARGUE WITH IDIOTS."}
 {"_id":{"$oid":"55c64c6bc630c340038417ff"},"date":"november-19-2013","quote":"TAKE CHARGE OF YOUR ATTITUDE. DON’T LET SOMEONE CHOOSE IT FOR YOU."}
@@ -893,7 +890,6 @@
 {"_id":{"$oid":"55c64d31729fd5642c2c9c92"},"date":"august-31-2014","quote":"KEEP YOUR HEAD UP IN FAILURE AND YOUR HEAD DOWN IN SUCCESS. -JERRY SEINFELD"}
 {"_id":{"$oid":"55c64d32729fd5642c2c9c94"},"date":"september-14-2014","quote":"LEARN HOW TO COOK. EVERYBODY LIKES A COOK."}
 {"_id":{"$oid":"55c64d32729fd5642c2c9c95"},"date":"july-10-2014","quote":"IT’S NEVER TOO LATE, BUT DO IT NOW."}
-{"_id":{"$oid":"55c64d32729fd5642c2c9c96"},"date":"august-29-2014","quote":"FIND A WAY TO MAKE YOURSELF BETTER EVERY SINGLE DAY."}
 {"_id":{"$oid":"55c64d32729fd5642c2c9c98"},"date":"september-4-2014","quote":"DON’T PASS UP POTENTIAL ONCE IN A LIFETIME OPPORTUNITIES."}
 {"_id":{"$oid":"55c64d32729fd5642c2c9c99"},"date":"august-6-2014","quote":"DO WHAT YOU LOVE AND FUCK THE REST."}
 {"_id":{"$oid":"55c64d33729fd5642c2c9c9a"},"date":"july-27-2014","quote":"DON’T LET YOUR EMOTIONS CLOUD YOUR DECISIONS."}
@@ -1033,7 +1029,6 @@
 {"_id":{"$oid":"55c64d9bc7f6f5e82173b7d3"},"date":"december-18-2014","quote":"THOSE WHO COMPLAIN THE MOST, ACCOMPLISH THE LEAST."}
 {"_id":{"$oid":"55c64d9dc7f6f5e82173b7e0"},"date":"september-13-2014","quote":"JUDGE OTHERS FAVORABLY. YOU NEVER KNOW WHAT BATTLES THEY ARE FIGHTING."}
 {"_id":{"$oid":"55c64d9dc7f6f5e82173b7e2"},"date":"november-5-2014","quote":"IF SOMEONE ISN’T WILLING TO HELP THEMSELVES, THEY CANNOT BE HELPED."}
-{"_id":{"$oid":"55c64da72d0a1f8c12bda8df"},"date":"august-25-2014","quote":"DON’T CONCERN YOURSELF OVER CELEBRITIES’ PERSONAL LIVES."}
 {"_id":{"$oid":"55c64dad2d0a1f8c12bda8f6"},"date":"october-8-2014","quote":"YOU ARE GONNA SUCK THE FIRST TIME YOU TRY SOMETHING. KEEP TRYING UNTIL YOU SUCK LESS."}
 {"_id":{"$oid":"55c64dae2d0a1f8c12bda8f9"},"date":"september-29-2014","quote":"CHANGE IS INEVITABLE. RECOGNIZE THAT FACT, AND EMBRACE IT."}
 {"_id":{"$oid":"55c64daf2d0a1f8c12bda8fb"},"date":"november-1-2014","quote":"DON’T LET THE LITTLE HEAD DO THE THINKING FOR THE BIG HEAD."}
@@ -1179,7 +1174,6 @@
 {"_id":{"$oid":"55c64e6693cffe402d1a4065"},"date":"may-24-2014","quote":"IF YOU DON’T ASK, THE ANSWER WILL ALWAYS BE NO."}
 {"_id":{"$oid":"55c64e6793cffe402d1a406e"},"date":"may-25-2014","quote":"BOREDOM IS A CHOICE, NOT A CIRCUMSTANCE."}
 {"_id":{"$oid":"55c64e6893cffe402d1a4079"},"date":"february-1-2014","quote":"FAIL FORWARD ALWAYS LEARN SOMETHING FROM YOUR EXPERIENCES."}
-{"_id":{"$oid":"55c64e6c93cffe402d1a4097"},"date":"april-22-2014","quote":"TAKE CARE OF YOUR BODY. IT’S THE ONLY ONE YOU HAVE."}
 {"_id":{"$oid":"55c64e6d93cffe402d1a40a4"},"date":"february-23-2014","quote":"DON’T LET LITTLE ARGUMENTS RUIN YOUR FRIENDSHIPS."}
 {"_id":{"$oid":"55c64e6e93cffe402d1a40a7"},"date":"july-2-2014","quote":"IT’S NOT ABOUT GETTING A CHANCE. IT’S ABOUT TAKING A CHANCE."}
 {"_id":{"$oid":"55c64e974dde862c1bd4ab2b"},"date":"february-20-2013","quote":"DON’T OVERDO IT WITH THE TONGUE."}
@@ -1326,3 +1320,18 @@
 {"_id":{"$oid":"55c6532990dff47c2ab815fe"},"date":"january-16-2013","quote":"YOU CAN’T HIDE A BAD MOOD FROM THE PEOPLE WHO KNOW YOU WELL, BUT YOU CAN BE POLITE."}
 {"_id":{"$oid":"55c6532c90dff47c2ab81608"},"date":"march-29-2012","quote":"GET DRESSED AS SOON AS YOU FUCKING WAKE UP."}
 {"_id":{"$oid":"55c65341a330bee82462bd06"},"date":"november-30-2011","quote":"USE YOUR FUCKING BLINKER."}
+{"_id":{"$oid":"55c6c46598f116540e97310c"},"date":"august-25-2014","quote":"DON’T CONCERN YOURSELF OVER CELEBRITIES’ PERSONAL LIVES."}
+{"_id":{"$oid":"55c6c47898f116540e97315f"},"date":"november-24-2014","quote":"IT’S OKAY TO BE SAD. JUST DON’T MAKE IT A HABIT."}
+{"_id":{"$oid":"55c6c48798f116540e9731a0"},"date":"april-8-2015","quote":"IF YOU BLAME IT ON SOMEONE ELSE, DON’T EXPECT IT TO GET BETTER."}
+{"_id":{"$oid":"55c6c4a637ffceac0b6b357c"},"date":"december-7-2014","quote":"YOU HAVE ALL THE OPPORTUNITY AND RESOURCES TO MAKE THE CHANGES YOU WANT. GET TO WORK."}
+{"_id":{"$oid":"55c6c4cfa9d6a5781933d236"},"date":"august-29-2014","quote":"FIND A WAY TO MAKE YOURSELF BETTER EVERY SINGLE DAY."}
+{"_id":{"$oid":"55c6c51097c53a180b172422"},"date":"october-31-2013","quote":"IT’S BETTER TO FART OVER A TOILET THAN SHIT IN YOUR PANTS."}
+{"_id":{"$oid":"55c6c52997c53a180b172484"},"date":"april-22-2014","quote":"TAKE CARE OF YOUR BODY. IT’S THE ONLY ONE YOU HAVE."}
+{"_id":{"$oid":"55c6c5a92cc6c5a814fdf95a"},"date":"january-4-2013","quote":"EVERYONE APPRECIATES WHEN YOU GET TO THE POINT QUICKLY."}
+{"_id":{"$oid":"55c6c5b22cc6c5a814fdf982"},"date":"february-9-2013","quote":"NEVER CANCEL DINNER PLANS BY TEXT MESSAGE."}
+{"_id":{"$oid":"55c6c5c32cc6c5a814fdf9b9"},"date":"september-27-2013","quote":"IF YOU DON’T WANT ANYONE TO FIND OUT, DON’T DO IT."}
+{"_id":{"$oid":"55c6c5d741fdb830236d4b9e"},"date":"february-1-2013","quote":"CASUAL SWEARING MAKES YOU SOUND FUCKING DUMB."}
+{"_id":{"$oid":"55c6c5dd41fdb830236d4bb4"},"date":"february-15-2013","quote":"SUCCESS CAN BE PREDICTED BY A PERSON’S WILLINGNESS TO HAVE UNCOMFORTABLE CONVERSATIONS."}
+{"_id":{"$oid":"55c6c5ed41fdb830236d4bf7"},"date":"september-19-2013","quote":"DON’T LET YOUR EMOTIONS MAKE DECISIONS FOR YOU."}
+{"_id":{"$oid":"55c6c5feb4c3e6e019c1f03d"},"date":"january-3-2013","quote":"DRINK WATER. KIDNEY STONES ARE A BITCH."}
+{"_id":{"$oid":"55c6c617b4c3e6e019c1f0a4"},"date":"september-15-2013","quote":"BE HONEST ABOUT YOUR INTENTIONS BEFORE YOU COMMIT TO A RELATIONSHIP. IF YOU JUST WANT A FLING, TELL THEM."}
