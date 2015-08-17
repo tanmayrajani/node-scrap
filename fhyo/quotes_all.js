@@ -2,12 +2,12 @@ var request = require("request"),
 	cheerio = require("cheerio");
 var url = "http://fuckinghomepage.com/page/";
 var MongoClient = require('mongodb').MongoClient;
-var i=949;
+var i=1;
 function fuckingHomepageDataBitches () {
 	j=''+i;
-	i--;
+	i++;
 	url1=url.concat(j);
-	if(i<600) return;
+	if(i>60) i=1;
 	//console.log(url1);
 	request(url1, function (error, response, body) {
 		if (!error) {
