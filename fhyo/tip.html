@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+	<title>Random tips. Yeah, bit*h!</title>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+	<style type="text/css">
+	.center{
+		margin-top: 100px;
+	}
+	.head{
+		margin-top: 40px;
+	}
+	.center a{
+		margin-bottom: 20px;
+		font-family: 'consolas';
+	}
+	.tip{
+		margin-top: 80px;
+		font-family: 'consolas';
+		font-size: 24px;
+	}
+	.page-footer{
+		bottom: 20px;
+		position: absolute;
+		width: inherit;
+		background-color: white !important;
+		font-family: 'consolas';
+		text-align: center;
+	}
+	</style>
+</head>
+<body>
+<div class="container">
+	<header>
+		<h2 class="center head">Well, let's get goin..</h2>
+	</header>
+	<div class="center">
+		<a class="waves-effect waves-light purple btn-large shit">Gimme a life-pro-tip, would ya?</a>
+		<div class="tip"></div>
+	</div>
+	<footer class="page-footer">
+		
+			Playing around with NodeJS and MongoDB <a href="https://github.com/tanmayrajani/node-scrap/tree/master/fhyo">[code]</a> | Tanmay Rajani.	<br>Quotes/Tips are extracted from <a href="http://fuckinghomepage.com">Fucking Homepage</a> ! [NSFW] [As if the tips are not! :D]
+	</footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+<script type="text/javascript">
+	function yobitch () {
+		var p = $.getJSON('valid.json', function(data) {
+			$(".tip").text(data[Math.round(Math.random()*1347)].quote);
+		});	
+	}
+	$(".shit").click(function () {
+		yobitch();
+	})
+</script>
+</body>
+</html>
